@@ -17,6 +17,7 @@ html{
 
 .webgl
 {
+    scale: 0.7;
     position: absolute;
     top: 0;
     left: 0;
@@ -30,6 +31,7 @@ html{
     place-content: center;
 }
 .container > h1 {
+    scale: 0.7;
     font-size: 8rem;
     text-transform: uppercase;
     color: white;
